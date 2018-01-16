@@ -23,10 +23,11 @@ Dependencies:
 Fetching sequences using NCBI accession number requires the Entrez Programming Utilities (E-utilities) tools pre-installed in the system. Please refer to https://www.ncbi.nlm.nih.gov/books/NBK179288/
 for detail instruction of how to install the tools.
 
-For Machintosh users: the "wget" tool needs to be installed.
+For Machintosh users: the "wget" tool is needed to be installed.
 
 
 Note:
 -----
 Please note that the input text will be used in a "case-sensitive" manner.
+
 This tool is developed and tested in Fedora 22 server and should run in all *nix operating systems.
